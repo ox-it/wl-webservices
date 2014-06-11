@@ -35,11 +35,7 @@
 	      	<groupId>org.sakaiproject.kernel</groupId>
 	      	<artifactId>sakai-component-manager</artifactId>
 	    </dependency>
-            <dependency> 
-              <groupId>org.sakaiproject.samigo</groupId> 
-              <artifactId>samigo-qti</artifactId>
-            </dependency>
-            <dependency>
+        <dependency>
 	      <groupId>org.sakaiproject.scheduler</groupId>
 	      <artifactId>scheduler-api</artifactId>
 	      <scope>provided</scope>

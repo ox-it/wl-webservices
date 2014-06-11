@@ -35,7 +35,6 @@ Presentation,sakai.presentation
 Profile,sakai.profile
 Admin: Realms,sakai.realms
 Resources,sakai.resources
-Samigo,sakai.samigo
 QA Helper,sakai.sample.qa
 JSF Acme,sakai.sample.tools.acme
 Browser,sakai.sample.tools.browser
