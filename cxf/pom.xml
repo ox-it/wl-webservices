@@ -68,10 +68,6 @@
             <artifactId>sakai-component-manager</artifactId>
         </dependency>
         <dependency>
-            <groupId>org.sakaiproject.samigo</groupId>
-            <artifactId>samigo-qti</artifactId>
-        </dependency>
-        <dependency>
             <groupId>org.sakaiproject.scheduler</groupId>
             <artifactId>scheduler-api</artifactId>
             <scope>provided</scope>
@@ -97,14 +93,6 @@
         <dependency>
             <groupId>org.sakaiproject.msgcntr</groupId>
             <artifactId>messageforums-api</artifactId>
-        </dependency>
-        <dependency>
-          <groupId>org.sakaiproject.samigo</groupId>
-          <artifactId>samigo-api</artifactId>
-        </dependency>
-        <dependency>
-          <groupId>org.sakaiproject.samigo</groupId>
-          <artifactId>samigo-services</artifactId>
         </dependency>
         <dependency>
           <groupId>org.quartz-scheduler</groupId>
